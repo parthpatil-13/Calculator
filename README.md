@@ -7,20 +7,20 @@ bash
 javac Calculator.java
 java Calculator
 
-#Features
+# Features
 Add, subtract, multiply, divide two numbers
 Loop for repeated calculations
 Division-by-zero handling
 
-#Tools Used
+# Tools Used
 Java (JDK 8+)
 VS Code or IntelliJ
 Terminal / Command Prompt
 
-#File Info
+# File Info
 Calculator.java – Main source code
 
-#Learning Outcomes
+# Learning Outcomes
 Java methods and syntax
 Conditionals and loops (do-while)
 Console I/O with Scanner
